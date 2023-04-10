@@ -1,4 +1,4 @@
 const a = 1;
-const b = 10;
-console.log(a + b);
-const f=0;
+const b = 11;
+console.log(a);
+const f=10;
